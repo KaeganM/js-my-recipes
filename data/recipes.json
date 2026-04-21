@@ -1,92 +1,145 @@
 [
-	{
-	  "id": 1,
-	  "title": "Spaghetti Carbonara",
-	  "image": "https://images.pexels.com/photos/29039085/pexels-photo-29039085/free-photo-of-creamy-spaghetti-carbonara-in-ceramic-dish.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-	  "ingredients": [
-		"200g spaghetti",
-		"100g pancetta",
-		"2 large eggs",
-		"50g pecorino cheese",
-		"50g parmesan cheese",
-		"Freshly ground black pepper",
-		"Salt"
-	  ],
-	  "instructions": "Cook the spaghetti. In a separate pan, cook the pancetta until crispy. Beat the eggs and mix with grated cheeses and pepper. Combine spaghetti, pancetta, and egg mixture off the heat to create a creamy sauce.",
-	  "prepTime": 20,
-	  "difficulty": "Medium"
-	},
-	{
-	  "id": 2,
-	  "title": "Tomato Basil Soup",
-	  "image": "https://images.pexels.com/photos/17302314/pexels-photo-17302314/free-photo-of-a-creamy-tomato-soup.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-	  "ingredients": [
-		"1 tbsp olive oil",
-		"1 onion, chopped",
-		"2 garlic cloves, minced",
-		"800g canned tomatoes",
-		"500ml vegetable stock",
-		"1 cup fresh basil leaves",
-		"Salt",
-		"Pepper"
-	  ],
-	  "instructions": "Sauté onion and garlic in olive oil until softened. Add tomatoes and stock, and simmer for 15 minutes. Add basil, blend until smooth, and season with salt and pepper.",
-	  "prepTime": 30,
-	  "difficulty": "Easy"
-	},
-	{
-	  "id": 3,
-	  "title": "Chicken Curry",
-	  "image": "https://images.pexels.com/photos/14691481/pexels-photo-14691481.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-	  "ingredients": [
-		"2 tbsp vegetable oil",
-		"1 onion, chopped",
-		"2 garlic cloves, minced",
-		"1 tbsp ginger, grated",
-		"1 tbsp curry powder",
-		"400g chicken breast, diced",
-		"400ml coconut milk",
-		"1 bell pepper, sliced",
-		"Salt",
-		"Pepper"
-	  ],
-	  "instructions": "Cook onion, garlic, and ginger in oil until fragrant. Add curry powder and chicken, and cook until browned. Add coconut milk and bell pepper, and simmer for 20 minutes.",
-	  "prepTime": 40,
-	  "difficulty": "Medium"
-	},
-	{
-	  "id": 4,
-	  "title": "Avocado Toast",
-	  "image": "https://images.pexels.com/photos/1656685/pexels-photo-1656685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-	  "ingredients": [
-		"1 ripe avocado",
-		"2 slices of bread",
-		"Salt",
-		"Pepper",
-		"Chili flakes (optional)"
-	  ],
-	  "instructions": "Toast the bread. Mash the avocado and spread it on the toast. Season with salt, pepper, and chili flakes.",
-	  "prepTime": 10,
-	  "difficulty": "Easy"
-	},
-	{
-	  "id": 5,
-	  "title": "Chocolate Chip Cookies",
-	  "image": "https://images.pexels.com/photos/14133099/pexels-photo-14133099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-	  "ingredients": [
-		"1 cup butter, softened",
-		"1 cup sugar",
-		"1 cup brown sugar",
-		"2 eggs",
-		"2 tsp vanilla extract",
-		"3 cups flour",
-		"1 tsp baking soda",
-		"0.5 tsp salt",
-		"2 cups chocolate chips"
-	  ],
-	  "instructions": "Cream butter and sugars. Add eggs and vanilla. Mix in flour, baking soda, and salt. Fold in chocolate chips. Bake at 350°F (175°C) for 10-12 minutes.",
-	  "prepTime": 25,
-	  "difficulty": "Easy"
-	}
-  ]
-  
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "image": "https://images.pexels.com/photos/29039085/pexels-photo-29039085/free-photo-of-creamy-spaghetti-carbonara-in-ceramic-dish.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g pecorino cheese",
+      "50g parmesan cheese",
+      "Freshly ground black pepper",
+      "Salt"
+    ],
+    "instructions": "Cook the spaghetti. In a separate pan, cook the pancetta until crispy. Beat the eggs and mix with grated cheeses and pepper. Combine spaghetti, pancetta, and egg mixture off the heat to create a creamy sauce.",
+    "prepTime": 20,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 2,
+    "title": "Tomato Basil Soup",
+    "image": "https://images.pexels.com/photos/17302314/pexels-photo-17302314/free-photo-of-a-creamy-tomato-soup.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1 tbsp olive oil",
+      "1 onion, chopped",
+      "2 garlic cloves, minced",
+      "800g canned tomatoes",
+      "500ml vegetable stock",
+      "1 cup fresh basil leaves",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": "Sauté onion and garlic in olive oil until softened. Add tomatoes and stock, and simmer for 15 minutes. Add basil, blend until smooth, and season with salt and pepper.",
+    "prepTime": 30,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 3,
+    "title": "Chicken Curry",
+    "image": "https://images.pexels.com/photos/14691481/pexels-photo-14691481.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "2 tbsp vegetable oil",
+      "1 onion, chopped",
+      "2 garlic cloves, minced",
+      "1 tbsp ginger, grated",
+      "1 tbsp curry powder",
+      "400g chicken breast, diced",
+      "400ml coconut milk",
+      "1 bell pepper, sliced",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": "Cook onion, garlic, and ginger in oil until fragrant. Add curry powder and chicken, and cook until browned. Add coconut milk and bell pepper, and simmer for 20 minutes.",
+    "prepTime": 40,
+    "difficulty": "Medium"
+  },
+  {
+    "id": 4,
+    "title": "Avocado Toast",
+    "image": "https://images.pexels.com/photos/1656685/pexels-photo-1656685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1 ripe avocado",
+      "2 slices of bread",
+      "Salt",
+      "Pepper",
+      "Chili flakes (optional)"
+    ],
+    "instructions": "Toast the bread. Mash the avocado and spread it on the toast. Season with salt, pepper, and chili flakes.",
+    "prepTime": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 5,
+    "title": "Chocolate Chip Cookies",
+    "image": "https://images.pexels.com/photos/14133099/pexels-photo-14133099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "ingredients": [
+      "1 cup butter, softened",
+      "1 cup sugar",
+      "1 cup brown sugar",
+      "2 eggs",
+      "2 tsp vanilla extract",
+      "3 cups flour",
+      "1 tsp baking soda",
+      "0.5 tsp salt",
+      "2 cups chocolate chips"
+    ],
+    "instructions": "Cream butter and sugars. Add eggs and vanilla. Mix in flour, baking soda, and salt. Fold in chocolate chips. Bake at 350°F (175°C) for 10-12 minutes.",
+    "prepTime": 25,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 6,
+    "title": "Brown Sugar Apple Pie",
+    "image": "https://images.pexels.com/photos/5836631/pexels-photo-5836631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "A delicious apple pie with a brown sugar twist.",
+    "ingredients": [
+      "Apples",
+      "Brown Sugar",
+      "Cinnamon",
+      "Nutmeg",
+      "Flour",
+      "Butter",
+      "Salt"
+    ],
+    "instructions": "Peel and slice apples. Mix with brown sugar, cinnamon, and nutmeg. Pour into pie crust. Mix flour, butter, sugar, and salt. Pour over apples. Bake at 350 degrees for 45 minutes.",
+    "prepTime": 30,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 7,
+    "title": "Brown Sugar Apple Pie",
+    "image": "https://images.pexels.com/photos/5836631/pexels-photo-5836631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "A delicious apple pie with a brown sugar twist.",
+    "ingredients": [
+      "Apples",
+      "Brown Sugar",
+      "Cinnamon",
+      "Nutmeg",
+      "Flour",
+      "Butter",
+      "Salt"
+    ],
+    "instructions": "Peel and slice apples. Mix with brown sugar, cinnamon, and nutmeg. Pour into pie crust. Mix flour, butter, sugar, and salt. Pour over apples. Bake at 350 degrees for 45 minutes.",
+    "prepTime": 30,
+    "difficulty": "Easy"
+  },
+  {
+    "id": 8,
+    "title": "Brown Sugar Apple Pie",
+    "image": "https://images.pexels.com/photos/5836631/pexels-photo-5836631.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "A delicious apple pie with a brown sugar twist.",
+    "ingredients": [
+      "Apples",
+      "Brown Sugar",
+      "Cinnamon",
+      "Nutmeg",
+      "Flour",
+      "Butter",
+      "Salt"
+    ],
+    "instructions": "Peel and slice apples. Mix with brown sugar, cinnamon, and nutmeg. Pour into pie crust. Mix flour, butter, sugar, and salt. Pour over apples. Bake at 350 degrees for 45 minutes.",
+    "prepTime": 30,
+    "difficulty": "Easy"
+  }
+]
